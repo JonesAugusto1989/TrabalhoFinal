@@ -1,0 +1,6 @@
+Solicitante{id=4, nome='Marcos', cpf='11111111111', email='marcos@teste1.com', pedidos=null}
+Solicitante{id=5, nome='Ana', cpf='22222222222222', email='ana@teste2.com', pedidos=null}
+Solicitante{id=6, nome='Grazi', cpf='33333333333333333333333', email='Grazi@teste3.com', pedidos=[Pedido{id=1, descricao='Pedido 1', dataInicial=2023-12-09T20:31:31.839131700, web=false, produtos=[Sobremesa{quantidade=2.0, doce=true, informacao='Sorvete muito gostoso'}]}]}
+Solicitante{id=7, nome='Jones', cpf='1111111111', email='jones@teste.com.br', pedidos=[Pedido{id=2, descricao='Bebida', dataInicial=2023-12-09T20:31:32.117748100, web=false, produtos=[Bebida{gelada=true, tamanho=2.5, marca='cocacola'}]}]}
+Solicitante{id=8, nome='Marcos', cpf='2222222', email='marco@marco.com.br', pedidos=[Pedido{id=2, descricao=' Sobremesa', dataInicial=2023-12-09T20:31:32.117748100, web=false, produtos=[Sobremesa{quantidade=3.0, doce=true, informacao='Brigadeiro de chocolate'}]}]}
+Solicitante{id=9, nome='Marta', cpf='3333333333333', email='marta@teste.com.br', pedidos=[Pedido{id=2, descricao='comida', dataInicial=2023-12-09T20:31:32.118748200, web=false, produtos=[Comida{peso=2.0, vegano=false, ingredientes=[Feijao]}]}]}
